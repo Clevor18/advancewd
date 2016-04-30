@@ -1,0 +1,25 @@
+@charset "utf-8";
+/* CSS Document */
+.floatright {
+	float: right;
+	width: 140px;
+	margin: 0 0 10px 10px;
+	background-color: #711;
+	padding: 10px;
+	border-left: 3px solid blue;
+	border-bottom: 3px solid blue;
+	border-right: 2px solid blue;
+	border-top: 2px solid blue;
+	border-radius: 8px;
+}
+div.floatright img {
+	padding-left: 5px;
+	border-right: 2px dashed white;
+	border-top: 2px dashed white;
+	border-left: 3px dashed white;
+	border-bottom: 3px dashed white;
+	border-radius: 8px;
+}
+p {
+	margin-top: 0;
+}
